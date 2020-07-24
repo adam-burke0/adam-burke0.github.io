@@ -26,6 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
+      - https://github.com/adam-burke0/cursedbot
     # - repo-name
 
   social_media:
